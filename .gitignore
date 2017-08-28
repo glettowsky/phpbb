@@ -17,6 +17,7 @@
 /phpBB/styles/*
 !/phpBB/styles/prosilver
 !/phpBB/styles/all
+!/phpBB/styles/flat-style
 node_modules
 /phpBB/vendor
 /phpBB/vendor-ext/*
